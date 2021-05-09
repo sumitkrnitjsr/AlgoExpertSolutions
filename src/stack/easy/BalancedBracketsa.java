@@ -82,6 +82,7 @@ public class BalancedBracketsa {
 					}
 					
 					return stack.size() == 0;
+					
 			}
 
 }
