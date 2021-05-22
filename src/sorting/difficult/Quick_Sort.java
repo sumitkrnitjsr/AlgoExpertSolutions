@@ -39,5 +39,11 @@ public class Quick_Sort {
 						return position;
 		}
 			
+		public static void main(String[] args) {
+			int[] array = new int[] {2,15};
+			quickSort(array);
+			System.out.println(array[0]);
+		}
+			
 
 }
