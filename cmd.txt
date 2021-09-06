@@ -1,0 +1,500 @@
+   92  open .
+   93  open .
+   94  git add .
+   95  git commit -m "Rearrangement""
+   96  git status
+   97  git commit -m "Rearrangement"
+   98  git status
+   99  git push
+  100  open .
+  101  open .
+  102  git add .
+  103  git commit -m "Rearrangement"
+  104  git push
+  105  git push
+  106  open .
+  107  open .
+  108  open .
+  109  open .
+  110  open .
+  111  open .
+  112  open .
+  113  open .
+  114  git add .
+  115  git commit -m "Searching And Sorting"
+  116  git push
+  117  open .
+  118  git add .
+  119  git commit -m "Optimization Test Question"
+  120  git push
+  121  open .
+  122  git add .
+  123  git commit -m "Written Test Questions"
+  124  git push
+  125  cd hello-world/
+  126  open.
+  127  open .
+  128  git add.
+  129  git add .
+  130  git commit "Searching More Questions"
+  131  git commit -m "Searching More Questions"
+  132  git status
+  133  git push
+  134  open .
+  135  open .
+  136  open .
+  137  open .
+  138  open .
+  139  git add .
+  140  git commit -m "Searching More Questions"
+  141  git push
+  142  open .
+  143  git add .
+  144  git commit -m "Searching More Questions"
+  145  git push
+  146  open .
+  147  git add .
+  148  git commit -m "Rearrangement More Questions"
+  149  git push
+  150  open .
+  151  open .
+  152  open .
+  153  git add .
+  154  git commit -m "Searching More Questions"
+  155  git push
+  156  open .
+  157  open .
+  158  open .
+  159  open .
+  160  open .
+  161  open .
+  162  open .
+  163  ls
+  164  cd hello-world/
+  165  open .
+  166  git status
+  167  git commit -m "Sorting For Linked List"
+  168  git add ."
+  169  exit
+  170  git add .
+  171  git commit -m "Sorting For Linked List"
+  172  git push
+  173  open .
+  174  git add .
+  175  git commit -m "Sorting For Linked List"
+  176  git push
+  177  open .
+  178  git add .
+  179  open .
+  180  open .
+  181  open .
+  182  git add .
+  183  git commit -m "For Linked List"
+  184  git push
+  185  open .
+  186  git add .
+  187  git commit -m "For Linked List"
+  188  git push
+  189  open .
+  190  git status
+  191  open .
+  192  open .
+  193  shutdown now
+  194  su shutdown now
+  195  su shutdown now
+  196  sudo shutdown now
+  197  man shutdown
+  198  sudo shutdown
+  199  sudo shutdown -r 1
+  200  sudo shutdown -r 1s
+  201  sudo shutdown -r now
+  202  man shutdown
+  203  sudo shutdown now
+  204  sudo shutdown time now
+  205  man shutdown
+  206  sudo shutdown -h now
+  207  adb devices
+  208  adb devices
+  209  adb shell ls storage/emulated/0/
+  210  adb shell ls storage/emulated/0/Downloads
+  211  adb shell ls storage/emulated/0/Download
+  212  adb pull storage/emulated/0/Download/DEV.7z
+  213  open .
+  214  adb devices
+  215  adb shell ls storage/emualted/0/
+  216  adb shell ls storage/emualted/0/
+  217  adb shell ls storage/emualted/0/
+  218  adb devices
+  219  adb devices
+  220  adb shell ls storage/emualted/0/
+  221  adb shell ls storage/emulated/0/
+  222  adb shell
+  223  adb push /Users/sumittiwary/Downloads/aars.zip  storage/emulated/0/
+  224  adb devices
+  225  adb push /Users/sumittiwary/Downloads/aars.zip  storage/emulated/0/
+  226  adb shell ps -A > processes.txt
+  227  adb devices
+  228  adb devices
+  229  adb devices
+  230  adb shell ps -A > processes.txt
+  231  open .
+  232  adb devices
+  233  adb devices
+  234  git
+  235  ls
+  236  ls hello-world/
+  237  ls hello-world/Array/
+  238  ls /etc/
+  239  ls /etc/ | grp -i 'git'
+  240  ls /etc/ | grep -i 'git'
+  241  ls ~ | grep -i 'git'
+  242  ls ~/ | grep -i 'git'
+  243  git help config
+  244  git config
+  245  git config --system
+  246  git config --list
+  247  cls
+  248  cd hello-world/
+  249  ls
+  250  open .
+  251  cd ..
+  252  open .
+  253  cd ..
+  254  open .
+  255  brew update
+  256  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  257  brew update
+  258  brew install octave
+  259  octave
+  260  octave
+  261  octave
+  262  cd /Users/sumittiwary/AndroidStudioProjects/
+  263  ll
+  264  ls
+  265  zip -r mvvm_first_sample FillIT/
+  266  ls
+  267  open .
+  268  adb devices
+  269  ls
+  270  cd Downloads/
+  271  adb pull storage/emulated/0/Download/American
+  272  open .
+  273  cd /Users/sumittiwary/AndroidStudioProjects/MyApplication
+  274  cd /Users/
+  275  cd AndroidStudioProjects
+  276  ls
+  277  cd sumittiwary/
+  278  ls
+  279  cd AndroidStudioProjects/
+  280  open .
+  281  adb pull storage/emulated/0/Download/American/
+  282  adb pull storage/emulated/0/keeper
+  283  adb pull storage/emulated/0/keeper
+  284  adb pull storage/emulated/0/keeper
+  285  adb pull storage/emulated/0/keeper
+  286  adb pull storage/emulated/0/keeper
+  287  adb pull storage/emulated/0/keeper
+  288  adb
+  289  adb devices
+  290  cd Desktop/
+  291  ls
+  292  cd Android\ Merge/
+  293  ls
+  294  adb pull storage/emulated/0/
+  295  adb pull storage/emulated/0/
+  296  adb pull storage/emulated/0/
+  297  adb pull storage/emulated/0/
+  298  hthtrack
+  299  java --version
+  300  echo JAVA_HOME
+  301  echo JAVA_HOME
+  302  cd /usr/libexec/java_home
+  303  cd /usr
+  304  ll
+  305  ls
+  306  cd libexec
+  307  ls
+  308  cd java_home
+  309  ls 
+  310  java_home
+  311  java -version
+  312  java --version
+  313  csrutil disable
+  314  echo %JAVA_HOME%
+  315  echo $JAVA_HOME
+  316  java
+  317  export JAVA_HOME=/Library/Java/Home
+  318  echo $JAVA_HOME
+  319  cd /Library/Java
+  320  ls
+  321  cd JavaVirtualMachines/
+  322  ls
+  323  cd jdk1.8.0_77.jdk/
+  324  ls
+  325  cd Contents
+  326  ls
+  327  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/
+  328  echo $JAVA_HOME
+  329  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home/
+  330  echo $JAVA_HOME
+  331  vim .bash_profile
+  332  vim ~/.bash_profile
+  333  source ~/.bash_profile
+  334  /usr/libexec/java_home -V
+  335  /usr/libexec/java_home -v 15
+  336  java --version
+  337  java -version
+  338  cd /Library/Java/JavaVirtualMachines/
+  339  ls
+  340  sudo rm -rf jdk-11.0.8.jdk/
+  341  sudo rm -rf jdk-14.0.2.jdk/
+  342  sudo rm -rf jdk-15.jdk/
+  343  sudo rm -rf jdk1.8.0_77.jdk/
+  344  ls
+  345  adb devices
+  346  adb pull storage/emulated/0/FinalR17ProBackupFeb21.zip
+  347  adb pull storage/emulated/0/ApkExtractor/CamScanner/CamScanner.apk
+  348  adb pull storage/emulated/0/ApkExtractor/Meituan/Meituan.apk
+  349  adb pull storage/emulated/0/ApkExtractor/Popcorn Time/"Popcorn Time.apk"
+  350  adb pull storage/emulated/0/ApkExtractor/"Popcorn Time/Popcorn Time.apk"
+  351  adb pull storage/emulated/0/ApkExtractor/QQMusic/QQMusic.apk
+  352  adb pull storage/emulated/0/ApkExtractor/WeChat/WeChat.apk
+  353  open .
+  354  ls
+  355  cd eclipse-workspace/AlgoExpert/
+  356  ls
+  357  git init
+  358  git checkout https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git
+  359  git status 
+  360  vim .gitignore 
+  361  git add .
+  362  git checkout https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git -b main
+  363  git commit -m "[Initialise Packages][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  364  git remote add origin https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git
+  365  git push https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git main
+  366  git push origin https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git main
+  367  git status
+  368  git push origin main
+  369  git add .
+  370  git commit -m "[Initialise Packages][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  371  git push origin main
+  372  git push origin HEAD:main
+  373  git pull
+  374  git push origin HEAD:main
+  375  git pull
+  376  git remote add origin https://github.com/sumitkrnitjsr/AlgoExpertSolutions.git
+  377  git branch
+  378  git push origin HEAD:masterhttps://github.com/sumitkrnitjsr/AlgoExpertSolutions.git
+  379  postgresql
+  380  /Library/PostgreSQL/13/scripts/runpsql.sh; exit
+  381  /Library/PostgreSQL/13/scripts/runpsql.sh; exit
+  382  ls
+  383  cd rails_backend/
+  384  cd procrastinate_aws/
+  385  ls
+  386  rails
+  387  rails new procrastinate_api --api --database=postgresql
+  388  ls
+  389  cd procrastinate_api/
+  390  ls
+  391  bin/rails server
+  392  bin/rails server
+  393  bin/rails server
+  394  ls
+  395  bin/rails generate model Apiversion versionid:string versioncode:string
+  396  bin/rails generate model Apiversion versionid:string versioncode:integer
+  397  bin/rails generate model Apiversion versionid:string versioncode:integer
+  398  bin/rails generate controller api/test index --skip-routes
+  399  bin/rails db:migrate
+  400  bin/rails db:migrate
+  401  bin/rails db:migrate
+  402  bin/rails db:migrate
+  403  bin/rails db:setup
+  404  bin/rails db:create
+  405  bin/rails db:setup
+  406  bin/rails db:create
+  407  bin/rails db:setup
+  408  bin/rails db:create
+  409  bin/rails db:create
+  410  bin/rails db:setup
+  411  bin/rails db:setup --trace
+  412  bin/rails db:create
+  413  bin/rails db:create
+  414  bin/rails db:create --trace
+  415  clear
+  416  sudo -u postgres createuser -s procrastinate_api
+  417  sudo -u postgres createuser -s procrastinate_api
+  418  sudo -u postgres psql
+  419  rake db:create
+  420  rake db:create
+  421  clear
+  422  psql
+  423  psql
+  424  psql
+  425  psql
+  426  psql
+  427  psql
+  428  psql
+  429  psql
+  430  LS
+  431  cd rails_backend/
+  432  ls
+  433  cd procrastinate_aws/procrastinate_api/
+  434  bin/rails db:setup
+  435  bin/rails db:setup
+  436  sudo -u postgres createuser -s postgres
+  437  sudo su postgres
+  438   postgres=> \l
+  439   postgres=> \du
+  440   postgres
+  441  sudo su postgres
+  442  sudo apt-get --purge remove postgresql
+  443  sudo apt --purge remove postgresql
+  444  cd /Library/PostgreSQL/
+  445  ls
+  446  cd 13/
+  447  open uninstall-postgresql.app/
+  448  cd procrastinate_aws/procrastinate_api/
+  449  cd rails_backend/
+  450  ls
+  451  cd /
+  452  ls
+  453  cd Users/
+  454  ls
+  455  cd sumittiwary/
+  456  ls
+  457  cd rails_backend/procrastinate_aws/
+  458  cd procrastinate_api/
+  459  bin/rails db:setup
+  460  postgres
+  461  psql
+  462  brew install postgresql
+  463  brew uninstall postgresql
+  464  bin/rails db:setup
+  465  brew install postgresql
+  466  psql postgres
+  467  ls
+  468  bin/rails db:setup
+  469  bin/rails db:migrate
+  470  bin/rails db:setup
+  471  bin/rails console
+  472  bin/rails server
+  473  bin/rails server
+  474  bin/rails server
+  475  bin/rails server
+  476  bin/rails server
+  477  cd rails_backend/procrastinate_aws/procrastinate_api/
+  478  bin/rails server
+  479  bin/rails server
+  480  bin/rails server
+  481  bin/rails server
+  482  rails generate controller api/v1/Users
+  483  bin/rails server
+  484  bin/rails server
+  485  bin/rails server
+  486  ls
+  487  mkdir WebProjects
+  488  cd WebProjects/
+  489  npx create-react-app blog
+  490  npx create-react-app blog --use-npm
+  491  cd blog/
+  492  npm start
+  493  npm start
+  494  npm start
+  495  npm start
+  496  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  497  python3 get-pip.py
+  498  git status
+  499  git add .
+  500  git commit -m "[Added Stack Problems][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  501  git push origin HEAD:main
+  502  git pull
+  503  git push origin HEAD:master
+  504  vim .gitignore 
+  505  git status
+  506  git add .
+  507  git commit -m "[Update git ignored file list][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  508  git push origin HEAD:master
+  509  git status
+  510  git status
+  511  git add .
+  512  git commit -m "[Added Stack Problems][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  513  git push origin HEAD:master
+  514  git pull
+  515  git push origin HEAD:master
+  516  git pull
+  517  git push origin HEAD:master
+  518  git push origin HEAD:main
+  519  git branch
+  520  git pull
+  521  git pull master
+  522  git pull origin master
+  523  git push origin HEAD:master
+  524  git commit
+  525  git log
+  526  git reset --hard 7b0a86a380b6ce7178099b8ed5f8287cfef9926f
+  527  git status
+  528  ls
+  529  ls -a
+  530  git status
+  531  git add .
+  532  git commit -m "[Updated local config files][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  533  git push origin HEAD:master
+  534  git fetch
+  535  git push origin HEAD:master
+  536  git diff master origin/master
+  537  ls -a
+  538  vim .gitignore
+  539  mkdir temp
+  540  cp .classpath ./temp/
+  541  cp .project ./temp/
+  542  cp .settings/ ./temp/
+  543  cp -R .settings/ ./temp/
+  544  cp .DS_Store ./temp/
+  545  ls ./temp/
+  546  ls ./temp
+  547  ls -a ./temp
+  548  git pull
+  549  git pull origin master
+  550  git status
+  551  git stash
+  552  git status
+  553  ls -a ./temp
+  554  git pull origin master
+  555  ls -a
+  556  git status
+  557  mkdir .settings
+  558  cp ./temp/org.eclipse.jdt.core.prefs ./.settings/
+  559  cp ./temp/.DS_Store ./
+  560  cp ./temp/.classpath ./
+  561  cp ./temp/.project ./
+  562  ls -a
+  563  ls ./.settings/];
+  564  ls ./.settings
+  565  git status
+  566  vim .gitignore 
+  567  vim .gitignore 
+  568  git status
+  569  rm -r temp/
+  570  git status
+  571  git add .
+  572  git commit -m "[Updated local config files][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  573  git push origin HEAD:master
+  574  git status
+  575  git add .
+  576  git commit -m "[All Easy Level Questions Final Submission][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  577  git push origin HEAD:master
+  578  git status
+  579  git add .
+  580  git commit -m "[All Medium Level Questions Final Submission][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  581  git push origin HEAD:master
+  582  git status
+  583  git status
+  584  git add .
+  585  git commit -m "[Added Heap & String Difficult Level Questions][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  586  git push origin HEAD:master
+  587  git status
+  588  git add .
+  589  git commit -m "[Added Microsoft Interview Questions][Ver 1.0][Author: Sumit][Bug:NA][Dependency:NA]"
+  590  git push origin HEAD:master
+  591  history > cmd.txt
